@@ -1,0 +1,11 @@
+.card {
+    height: 100%;
+}
+
+.grafica {
+    width: 30% !important;
+}
+
+.selected {
+    background-color: grey !important;
+}

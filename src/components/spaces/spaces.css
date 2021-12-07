@@ -1,3 +1,7 @@
-.spaces {
-    
+.btn-secondary .card-body {
+    color: black;
+}
+
+.btn-secondary:hover .card-body {
+    color: white;
 }
